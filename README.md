@@ -1,3 +1,4 @@
+# Inventory Management System
 📌 Overview
 This is a simple C# console application that allows users to manage an inventory of products. It supports adding, editing, searching, and listing products.
 
